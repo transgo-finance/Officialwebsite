@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="413px" height="514px" viewBox="0 0 413 514" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>编组 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="57.5456387%" y1="2.97280844%" x2="79.3321002%" y2="79.1071429%" id="linearGradient-1">
+            <stop stop-color="#221789" offset="0%"></stop>
+            <stop stop-color="#0A134F" offset="100%"></stop>
+        </linearGradient>
+        <path d="M527,107.307047 C527,48.4094536 479.253614,0.663568773 420.3558,0.663568773 L0,0.663568773 L0,511.663569 L455.903867,511.663569 C495.169372,511.663569 527,479.833157 527,440.567917 L527,107.307047 Z" id="path-2"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0.000000, -1264.000000)">
+            <g id="编组-4" transform="translate(-47.000000, 1264.000000)">
+                <g id="编组-3" transform="translate(18.000000, 0.000000)" fill="url(#linearGradient-1)">
+                    <rect id="矩形" x="0" y="0" width="442" height="514" rx="47"></rect>
+                </g>
+                <g id="Mask-Group" opacity="0.401808966" transform="translate(0.000000, 1.336431)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="路径"></g>
+                    <g id="编组" mask="url(#mask-3)" stroke="#4329F0" stroke-width="30">
+                        <g transform="translate(-30.000000, -95.336431)" id="路径">
+                            <path d="M21.4076756,186.315556 C-1.9983641,176.497333 -6.59033077,143.530667 13.1424026,126.975289 L155.215235,7.77626667 C174.947613,-8.77955556 204.205051,3.49333333 207.877913,29.8665778 L234.327321,219.754667 C238.000182,246.128 213.33471,266.822222 189.929115,257.004444 L21.4076756,186.315556 Z"></path>
+                            <path d="M132.949046,422.039111 C129.651745,397.886222 152.282107,379.011556 173.683821,388.064 L327.77531,453.242667 C349.177203,462.295111 353.299385,492.486222 335.194882,507.586667 L204.843887,616.307556 C186.739385,631.408 159.987019,620.092444 156.689718,595.939556 L132.949046,422.039111 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

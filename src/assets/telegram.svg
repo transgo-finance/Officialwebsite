@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>telegram.b0186ded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="192.50024%" y1="50.2316535%" x2="19.2067343%" y2="50.2316535%" id="linearGradient-1">
+            <stop stop-color="#F5A891" offset="0%"></stop>
+            <stop stop-color="#EF4670" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-1067.000000, -3021.000000)" fill-rule="nonzero">
+            <g id="telegram.b0186ded" transform="translate(1068.000000, 3022.000000)">
+                <g id="编组-26" stroke="#FFFFFF" stroke-width="1.2">
+                    <g id="linkedin-copy">
+                        <path d="M23.9354667,11.8362198 C23.9354667,18.3729231 18.5770667,23.6724396 11.9677333,23.6724396 C5.3584,23.6724396 0,18.3729231 0,11.8362198 C0,5.29951648 5.3584,0 11.9677333,0 C18.5770667,0 23.9354667,5.29951648 23.9354667,11.8362198 Z" id="Fill-1"></path>
+                    </g>
+                </g>
+                <g id="telegram-plane" transform="translate(4.000000, 5.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="1" y="0" width="13" height="13"></rect>
+                    <path d="M13.1516425,2.57986302 L11.28433,11.3860646 C11.1434529,12.0075813 10.7760674,12.16227 10.2539933,11.8694665 L7.40882784,9.77288339 L6.03596643,11.0932612 C5.88404011,11.2451875 5.75697447,11.3722531 5.46417103,11.3722531 L5.66858098,8.47460398 L10.9418052,3.70964234 C11.1710758,3.50523239 10.8920839,3.39197823 10.5854689,3.59638817 L4.06644895,7.70116093 L1.25995559,6.82275061 C0.649488045,6.63215215 0.638438858,6.21228306 1.38702124,5.91947962 L12.364388,1.69040352 C12.8726505,1.49980505 13.3173803,1.80365768 13.1516425,2.57986302 Z" id="路径" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
